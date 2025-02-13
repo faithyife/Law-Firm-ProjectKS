@@ -4003,9 +4003,15 @@ del {
 
 /* ///////////////////////////////////////////////////////////////// */
 
-
-
 .testimonial-area {
   position: relative;
   background-color: #b40000 !important;
+}
+
+.image-wrapper {
+  width: 20%;
+}
+
+.image-wrapper img {
+  width: 100%;
 }
